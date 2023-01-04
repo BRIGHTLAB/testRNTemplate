@@ -2,7 +2,7 @@
   "name": "testrntemplate",
   "version": "0.0.1",
   "description": "React Native Template",
-  "repository": "https://github.com/BRIGHTLAB/testRNTemplate.git",
-  "author": "Royce Chua",
+  "repository": "git@github.com:BRIGHTLAB/testRNTemplate.git",
+  "author": "Bright Lab",
   "license": "MIT"
 }
